@@ -8,6 +8,10 @@
   <description>A GWT library for onesocialweb (built on top of the Emite project)</description>
   <url>http://onesocialweb.org/</url>
 
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
   <build>
     <plugins>
       <plugin>
