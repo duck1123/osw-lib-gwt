@@ -109,4 +109,21 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
+  <distributionManagement>
+    <site>
+      <id>duck1123-fork</id>
+      <url>gitsite:git@github.com/duck1123/osw-lib-gwt.git</url>
+    </site>
+    <repository>
+      <id>kronkltd.net</id>
+      <name>kronkltd.net-releases</name>
+      <url>http://kronkltd.net:8080/artifactory/libs-releases-local</url>
+    </repository>
+    <snapshotRepository>
+      <id>kronkltd.net</id>
+      <name>kronkltd.net-snapshots</name>
+      <url>http://kronkltd.net:8080/artifactory/libs-snapshots-local</url>
+    </snapshotRepository>
+  </distributionManagement>
 </project>
