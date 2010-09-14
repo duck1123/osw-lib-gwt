@@ -8,6 +8,14 @@
   <description>A GWT library for onesocialweb (built on top of the Emite project)</description>
   <url>http://onesocialweb.org/</url>
 
+  <mailingLists>
+    <mailingList>
+      <name>One Social Web mailing list</name>
+      <post>onesocialweb@googlegroups.com</post>
+      <archive>http://groups.google.com/group/onesocialweb</archive>
+    </mailingList>
+  </mailingLists>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
